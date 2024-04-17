@@ -93,8 +93,4 @@ internal class SubjectBroker : ISubjectBroker
         }
     }
 
-    public Task<bool> UpdateSubjectAsync(Subject subject)
-    {
-        throw new NotImplementedException();
-    }
 }
